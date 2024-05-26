@@ -1,0 +1,224 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Marc Santora, Andrew Higgins, Tomas Dapkus",
+      "title": "Russia-Ukraine War News: Live Updates - The New York Times",
+      "description": "Russia and Ukraine again accused each other of shelling the Zaporizhzhia plant, as the U.N.’s nuclear watchdog has assembled a team of experts to visit the facility amid concerns about a possible nuclear accident.",
+      "url": "https://www.nytimes.com/live/2022/08/27/world/ukraine-russia-war-news",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/27/multimedia/27ukraine-briefing-carousel-1115am-2/27ukraine-briefing-carousel-1115am-2-facebookJumbo.jpg",
+      "publishedAt": "2022-08-27T16:34:18Z",
+      "content": "The Zaporizhzhia Nuclear Power Plant seen from the banks of the Dnipro River this month. The plant, the largest of its kind in Europe, is under the control of Russian forces.Credit...David Guttenfeld… [+4706 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Pakistan floods: Desperation and displacement in Sindh province - BBC",
+      "description": "Near one city, thousands of mud homes have sunk under water; for miles, all that's visible is treetops.",
+      "url": "https://www.bbc.com/news/world-asia-62699886",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D7EC/production/_126467255_mediaitem126467251.jpg",
+      "publishedAt": "2022-08-27T16:10:11Z",
+      "content": "By Pumza Fihlani in Sindh province, Pakistan and George Wright in LondonBBC News\r\nMedia caption, Watch: Millions affected by heavy flooding in Pakistan\r\nThe Prime Minister of Pakistan has said the \"m… [+2954 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Chris McGreal",
+      "title": "Of all the legal threats Trump is facing, is this the one that could take him down? - The Guardian US",
+      "description": "The quiet workings of a Georgia grand jury hearing evidence of election fraud could represent the ex-president’s greatest danger",
+      "url": "https://amp.theguardian.com/us-news/2022/aug/27/trump-georgia-investigation-grand-jury-election",
+      "urlToImage": "https://i.guim.co.uk/img/media/0b348989703f9a024eab4354d4d29e70c812b748/0_50_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67504816d6fb3e5e3d47074f7af5e69e",
+      "publishedAt": "2022-08-27T15:36:00Z",
+      "content": "Donald Trumps lawyers are earning their keep.\r\nThe former presidents attorneys have raced to put out one fire after another in recent months as they defend Trump from investigations into the squirrel… [+7010 chars]"
+    },
+
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tierney Sneed",
+      "title": "Trump re-ups request for 'special master' but glosses over some questions from the judge - CNN",
+      "description": "Former President Donald Trump responded Friday to a judge's request that he elaborate on his request that the court appoint a \"special master\" to oversee the review of evidence recovered from the search of his Mar-a-Lago residence with a 12-page filing that t…",
+      "url": "https://www.cnn.com/2022/08/26/politics/trump-special-master-request-mar-a-lago-doj-search/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220819110103-mar-a-lago-file-081022.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-08-27T15:34:00Z",
+      "content": "Former President Donald Trump responded Friday to a judges request that he elaborate on his request that the court appoint a special master to oversee the review of evidence recovered from the search… [+5665 chars]"
+    },
+
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Tom Warren",
+      "title": "Xbox Game Pass \"Friends & Family\" leak suggests you can share with friends - The Verge",
+      "description": "A new leak could mean Microsoft is about to let Xbox Game Pass subscribers share benefits with family and friends. Microsoft has been working on a Game Pass family plan, and it could be named Game Pass Friends & Family.",
+      "url": "https://www.theverge.com/2022/8/27/23324623/microsoft-xbox-game-pass-friends-family-subscription-leak",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pl2Nhz8OCyk2EGHynrvf9c6ZbeA=/0x96:400x305/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23975084/xboxgamepassfriendsandfamily.png",
+      "publishedAt": "2022-08-27T15:30:30Z",
+      "content": "Illustration by Alex Castro / The Verge\r\nA leak of potential branding for Microsofts upcoming Xbox Game Pass family subscription suggests youll be able to share a subscription with friends, too. Micr… [+1368 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Huge dinosaur skeleton unearthed in Portuguese garden - BBC News - BBC News",
+      "description": "The remains of what could be the largest dinosaur ever discovered in Europe are being excavated in a Portuguese back garden.The fossilised skeleton of a saur...",
+      "url": "https://www.youtube.com/watch?v=VfUn7l027Q8",
+      "urlToImage": "https://i.ytimg.com/vi/VfUn7l027Q8/maxresdefault.jpg",
+      "publishedAt": "2022-08-27T15:28:52Z",
+      "content": null
+    },
+
+    {
+      "source": { "id": null, "name": "Space.com" },
+      "author": "Tariq Malik",
+      "title": "NASA's begins countdown for Artemis 1 moon mission launch - Space.com",
+      "description": "The clock is ticking to the Artemis 1 moon mission launch on Aug. 29.",
+      "url": "https://www.space.com/artemis-1-moon-mission-nasa-launch-countdown",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mq57FViVrFhBWZUt8kqZgV-1200-80.jpg",
+      "publishedAt": "2022-08-27T15:07:45Z",
+      "content": "CAPE CANAVERAL, Fla. — The countdown is on for NASA's biggest test flight of the year.\r\nAt 10:23 a.m. EDT (1423 GMT) today (Aug. 27), the countdown clock began ticking down to the planned launch of N… [+3086 chars]"
+    },
+
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Morik",
+      "title": "Seahawks name Geno Smith starting quarterback - Fox News",
+      "description": "Geno Smith has won the Seattle Seahawks starting quarterback job, replacing Russell Wilson, who was trade to the Denver Broncos in the offseason.",
+      "url": "https://www.foxnews.com/sports/seahawks-name-geno-smith-starting-quarterback",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/805ba26c-Geno-Smith.jpg",
+      "publishedAt": "2022-08-27T14:43:03Z",
+      "content": "The Seattle Seahawks have their guy for Week 1, and it's Geno Smith.\r\nFor the first time since 2011, someone not named Russell Wilson will be the No. 1 quarterback for the Seahawks, as Seattle traded… [+2652 chars]"
+    },
+
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "DeSantis suspends 4 Broward school board members after Parkland report - POLITICO",
+      "description": "Out of the four sitting school board members scrutinized in the report, the terms of Levinson and Murray are set to expire in November with neither seeking reelection.",
+      "url": "https://www.politico.com/news/2022/08/27/desantis-suspends-4-broward-school-board-members-after-parkland-report-00053977",
+      "urlToImage": "https://static.politico.com/9d/dc/828f2a5f424388757408ff719927/school-shooting-florida-superintendent-59759.jpg",
+      "publishedAt": "2022-08-27T14:03:02Z",
+      "content": "It is my duty to suspend people from office when there is clear evidence of incompetence, neglect of duty, misfeasance or malfeasance, DeSantis said in a statement. This action is in the best interes… [+2994 chars]"
+    },
+
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Tassanee Vejpongsa",
+      "title": "Sick dolphin calf improves with tube-fed milk, helping hands - The Associated Press - en Español",
+      "description": "RAYONG, Thailand (AP) — The Irrawaddy dolphin calf — sick and too weak to swim — was drowning in a tidal pool on Thailand’s shore when fishermen found him.  The fishermen quickly alerted marine conservationists, who advised them how to provide emergency care …",
+      "url": "https://apnews.com/article/thailand-dolphin-calf-rescue-b6562a44bca5d621b429395d5902f1dc",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/fd7f9fcba5434a55afececd2fa0dfa3e/3000.jpeg",
+      "publishedAt": "2022-08-27T13:41:06Z",
+      "content": "RAYONG, Thailand (AP) The Irrawaddy dolphin calf sick and too weak to swim was drowning in a tidal pool on Thailands shore when fishermen found him. \r\nThe fishermen quickly alerted marine conservatio… [+3796 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "MMA Fighting" },
+      "author": "MMA Fighting Newswire",
+      "title": "Adriano Moraes gives first comments after brutal knockout loss to Demetrious Johnson, calls for trilogy fight - MMA Fighting",
+      "description": "Adriano Moraes broke his silence after his devastating loss to Demetrious Johnson — and called for a chance to settle their series for good.",
+      "url": "https://www.mmafighting.com/2022/8/27/23324407/adriano-moraes-gives-first-comments-brutal-knockout-loss-demetrious-johnson-calls-for-trilogy-fight",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jfzuX3iBWxVatDFAGKRKLhP8YvM=/0x0:1536x804/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23130634/Adriano_Moraes_Demetrious_Johnson_ONE_on_TNT_I_16_1536x1024.jpg",
+      "publishedAt": "2022-08-27T13:00:04Z",
+      "content": "Adriano Moraes wants to settle the series for good.\r\nThe now former ONE Championship flyweight titleholder suffered a brutal defeat at the hands of Demetrious Johnson on Friday night, losing his belt… [+1586 chars]"
+    },
+
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Drew Harwell",
+      "title": "Trump's Truth Social isn't paying its bills - The Washington Post",
+      "description": "Former president Donald Trump’s company Truth Social is facing financial doubts, puny traffic and fears of further trouble if his popularity falls.",
+      "url": "https://www.washingtonpost.com/technology/2022/08/27/trump-truth-social-mar-a-lago-fbi/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQFGQ7BGDQI63JZPDZYUSBZPXQ.jpg&w=1440",
+      "publishedAt": "2022-08-27T13:00:00Z",
+      "content": "Comment on this story\r\nFormer president Donald Trumps Truth Social website is facing financial challenges as its traffic remains puny and the company that is scheduled to acquire it expresses fear th… [+6003 chars]"
+    },
+
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ashley Hume",
+      "title": "Naomi Judd's autopsy confirms country singer's cause of death as family releases statement - Fox News",
+      "description": "Country music star Naomi Judd died from a self-inflicted gunshot wound, an autopsy report released on Friday revealed. The report confirmed statements that Judd's family members had previously made.",
+      "url": "https://www.foxnews.com/entertainment/naomi-judd-autopsy-confirms-country-singer-cause-of-death-family-releases-statement",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/judd.jpg",
+      "publishedAt": "2022-08-27T11:09:54Z",
+      "content": "Naomi Judd's autopsy report released by the Nashville medical examiners office confirmed statements that the late country music star's family members had previously made regarding the circumstances o… [+3315 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Nika Shakhnazarova",
+      "title": "'American Idol' winner Just Sam hospitalized with unknown illness: 'I seriously need help' - Page Six",
+      "description": "“I seriously need help,” the “American Idol” winner wrote.",
+      "url": "https://pagesix.com/2022/08/27/american-idol-winner-just-sam-hospitalized-with-unknown-illness/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/08/newspress-collage-6372813-1661597217349.jpg?quality=75&strip=all&1661582940&w=1200",
+      "publishedAt": "2022-08-27T10:51:00Z",
+      "content": "Singer Just Sam, who rose to fame after winning “American Idol” in 2020, was hospitalized with an unknown illness.\r\nThe NYC-based musician, whose real name is Samantha Diaz, rushed to her Instagram S… [+1616 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "Cointelegraph" },
+      "author": "William Suberg",
+      "title": "Bitcoin price briefly loses $20K on 'bunch of nothing' Powell speech - Cointelegraph",
+      "description": "BTC price predictions focus on sub-$20,000 levels as Bitcoin traders prepare for the worst.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-briefly-loses-20k-on-bunch-of-nothing-powell-speech",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDgvMzk3NmQ4OTctOTA2YS00NDdhLWI0MzItODhiMmQ2M2FmMWVkLmpwZw==.jpg",
+      "publishedAt": "2022-08-27T10:41:43Z",
+      "content": "Bitcoin (BTC) analysts were keen to draw fresh price targets on Aug. 27 after the largest cryptocurrency briefly fell below $20,000.\r\nBTC/USD 1-hour candle chart (Bitstamp). Source: TradingView\r\nSub-… [+4463 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Scientists Grow “Synthetic” Embryo With Brain and Beating Heart – Without Eggs or Sperm - SciTechDaily",
+      "description": "Scientists from the University of Cambridge have created model embryos from mouse stem cells that form a brain, a beating heart, and the foundations of all the other organs of the body. It represents a new avenue for recreating the first stages of life. The t…",
+      "url": "https://scitechdaily.com/scientists-grow-synthetic-embryo-with-brain-and-beating-heart-without-eggs-or-sperm/",
+      "urlToImage": "https://scitechdaily.com/images/Synthetic-Embryo-With-Brain-and-Beating-Heart.jpg",
+      "publishedAt": "2022-08-27T10:07:25Z",
+      "content": "Natural and synthetic embryos side by side show comparable brain and heart formation. Credit: Amadei and Handford\r\nScientists from the University of Cambridge have created model embryos from mouse st… [+14491 chars]"
+    },
+
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Brie Stimson",
+      "title": "Britney Spears says she's having 'best day ever' over Elton John collaboration hitting No. 1: ‘Holy s---!' - Fox News",
+      "description": "Britney Spears said Friday she planned to have the \"best day ever\" after finding out her song \"Hold Me Closer\" with Elton John had rocketed to the top of the charts.",
+      "url": "https://www.foxnews.com/entertainment/britney-spears-says-best-day-ever-elton-john-collaboration-hitting-no-1-holy-s",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/britney-elton.jpg",
+      "publishedAt": "2022-08-27T09:18:40Z",
+      "content": "When Britney Spears and Elton Johns musical collaboration \"Hold Me Closer\" hit number one on iTunes just hours after its release Friday, the 40-year-old pop princess posted a cheeky Twitter video to … [+3122 chars]"
+    },
+
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Karol Suarez",
+      "title": "Parents of 43 missing Mexican students welcome arrest of former attorney general - CNN",
+      "description": "The mothers and fathers of 43 Mexican students who went missing nearly eight years ago have welcomed the findings of a recent government report that found the disappearances were a \"crime of the state.\"",
+      "url": "https://www.cnn.com/2022/08/27/americas/ayotzinapa-mexican-students-parents-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220826164520-01-missing-mexican-students-march-super-tease.jpg",
+      "publishedAt": "2022-08-27T07:23:00Z",
+      "content": "(CNN)The mothers and fathers of 43 Mexican students who went missing nearly eight years ago have welcomed the findings of a recent government report that found the disappearances were a \"crime of the… [+2210 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "New York Times" },      "author": "Danny Hakim, Neil Vigdor, Richard Fausset",
+      "title": "Election Data Breach Attracts Georgia Investigators - The New York Times",
+      "description": "The district attorney in Atlanta is seeking to build a broad conspiracy case that encompasses multifaceted efforts by Trump allies to disrupt and overturn the 2020 election.",
+      "url": "https://www.nytimes.com/2022/08/27/us/georgia-trump-coffee-county-election.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/26/multimedia/26COFFEE-COUNTY-1/26COFFEE-COUNTY-1-facebookJumbo.jpg",
+      "publishedAt": "2022-08-27T07:00:15Z",
+      "content": "Ms. Williss office cited the Coffee County data breach in its filing on Thursday seeking Ms. Powells testimony, which was the first time the matter had surfaced in connection with her investigation. … [+1704 chars]"
+    },
+
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Oren Liebermann",
+      "title": "How Ukraine is using resistance warfare developed by the US to fight back against Russia - CNN",
+      "description": "As the war in Ukraine has passed the six-month mark, US and European officials say Ukraine has successfully used a method of resistance warfare developed by US special operations forces to fight back against Russia and bog down its vastly superior military.",
+      "url": "https://www.cnn.com/2022/08/27/politics/russia-ukraine-resistance-warfare/index.html",
+       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220826110936-03-resistance-operating-concept-liebermann.jpg?q=w_800,c_fill",
+       "publishedAt": "2022-08-27T06:02:00Z",
+       "content": "As the war in Ukraine has passed the six-month mark, US and European officials say Ukraine has successfully used a method of resistance warfare developed by US special operations forces to fight back… [+9041 chars]"
+ }
+ ]
+ }
